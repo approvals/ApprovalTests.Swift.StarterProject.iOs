@@ -16,7 +16,6 @@ let package = Package(
         // begin-snippet: package_include_approvals
         dependencies: [
             .package(
-                    name: "ApprovalTests.Swift",
                     url: "https://github.com/approvals/ApprovalTests.Swift",
                     "1.0.0"..."100.0.0"
             ),
