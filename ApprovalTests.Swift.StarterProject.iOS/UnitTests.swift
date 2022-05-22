@@ -1,6 +1,6 @@
 import Foundation
 
- enum UnitTests {
+enum UnitTests {
     static func getBenefits() -> String {
         """
         The four benefits to testing are:
